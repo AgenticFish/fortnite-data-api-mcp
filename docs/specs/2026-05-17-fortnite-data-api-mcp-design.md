@@ -1,6 +1,6 @@
 # Fortnite Data API MCP — Design Spec
 
-**Status:** Draft (awaiting user review)
+**Status:** Approved (2026-05-17)
 **Date:** 2026-05-17
 **Topic:** MCP server that wraps the public Fortnite Data API (`https://api.fortnite.com/ecosystem/v1`)
 **Distribution:** Open-source public npm package, stdio transport
